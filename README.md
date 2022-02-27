@@ -37,7 +37,8 @@
     - Numpy;
     - Matplotlib;
     - Seaborn;
-    - Scipy.
+    - Scipy;
+    - Scikitlearn.
 
 
 
