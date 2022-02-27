@@ -30,7 +30,7 @@
 
 
 ## ➡️ Languages and Tools that I work with:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tekenable.ie%2Fwp-content%2Fuploads%2F2019%2F09%2FPowerBI-Icon-Transparent.png&f=1&nofb=1" weight="70" height="70"/><img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" weight="70" height="70"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tekenable.ie%2Fwp-content%2Fuploads%2F2019%2F09%2FPowerBI-Icon-Transparent.png&f=1&nofb=1" weight="70" height="70"/><img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" weight="70" height="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" weight="70" height="70"/>
   
    ##### 💻 Python Libraries that I work with:
     - Pandas;
