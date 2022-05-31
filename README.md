@@ -30,7 +30,7 @@
 
 
 ## ➡️ Languages and Tools that I work with:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" weight="70" height="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tekenable.ie%2Fwp-content%2Fuploads%2F2019%2F09%2FPowerBI-Icon-Transparent.png&f=1&nofb=1" weight="70" height="70"/><img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" weight="70" height="70"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" weight="70" height="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tekenable.ie%2Fwp-content%2Fuploads%2F2019%2F09%2FPowerBI-Icon-Transparent.png&f=1&nofb=1" weight="70" height="70"/><img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffinanceandbusiness.ucdavis.edu%2Fsites%2Fg%2Ffiles%2Fdgvnsk4871%2Ffiles%2Fstyles%2Fsf_landscape_16x9%2Fpublic%2Fimages%2Farticle%2Ftableau_icon.png%3Fh%3Dc673cd1c%26itok%3DYkUJtGl8&f=1&nofb=1" weight="70" height="70"/>
   
    ##### 💻 Python Libraries that I work with:
     - Pandas;
@@ -46,4 +46,4 @@
 
 
 ## ➡️ Languages and Tools that I'm Currently learning:
- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffinanceandbusiness.ucdavis.edu%2Fsites%2Fg%2Ffiles%2Fdgvnsk4871%2Ffiles%2Fstyles%2Fsf_landscape_16x9%2Fpublic%2Fimages%2Farticle%2Ftableau_icon.png%3Fh%3Dc673cd1c%26itok%3DYkUJtGl8&f=1&nofb=1" weight="70" height="70"/><img src="https://vertigo.com.br/wp-content/uploads/2016/09/logo_lockup_analytics_icon_horizontal_black_2x.png" weight="70" height="70"/><img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo.png" weight="70" height="70"/>
+ <img src="https://vertigo.com.br/wp-content/uploads/2016/09/logo_lockup_analytics_icon_horizontal_black_2x.png" weight="70" height="70"/><img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo.png" weight="70" height="70"/>
