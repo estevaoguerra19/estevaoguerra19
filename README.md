@@ -1,5 +1,5 @@
 ## 👋 Hey there! I'm __Estêvão Guerra__
-### 👨‍🔬 Data Scientist
+### 👨‍💻 Data Engineer
 <img height="200em" src="https://c.tenor.com/3PztGziJog8AAAAC/baby-yoda-wave.gif">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevaoguerra/)
@@ -14,36 +14,40 @@
   </div>
 </div>
 
-
-
-
-
 ### :vulcan_salute: About Me
-- I was born in Brazil 🌲 and I'm 20 years old;
-- I choose IT with a view their opportunities and because I like technology stuffs;
-- I'm a pianist and have a care for Music, mainly old Music like the Classical one;
-- I love black color;
-- Get know new cultures is my hobbie;
-- I'm particularly a Marvel fan.  
+- I was born in Brazil 🌲 on **April 30, 2001**, which makes me **23 years old** as of today.
+- I chose IT for its vast opportunities and because I have a passion for technology.
+- I'm a pianist with a special love for Classical Music 🎵.
+- I love the color black and enjoy learning about new cultures 🌍.
+- A huge Marvel fan! 🦸‍♂️
 
+---
 
+## ➡️ Tools & Technologies I Work With:
 
+### 💻 **Programming Languages & Frameworks:**
+- **Python** 
+- **SQL** (MySQL, PostgreSQL, SQL Server)
 
-## ➡️ Languages and Tools that I work with:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" weight="70" height="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tekenable.ie%2Fwp-content%2Fuploads%2F2019%2F09%2FPowerBI-Icon-Transparent.png&f=1&nofb=1" weight="70" height="70"/><img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" weight="70" height="70"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffinanceandbusiness.ucdavis.edu%2Fsites%2Fg%2Ffiles%2Fdgvnsk4871%2Ffiles%2Fstyles%2Fsf_landscape_16x9%2Fpublic%2Fimages%2Farticle%2Ftableau_icon.png%3Fh%3Dc673cd1c%26itok%3DYkUJtGl8&f=1&nofb=1" weight="70" height="70"/>
-  
-   ##### 💻 Python Libraries that I work with:
-    - Pandas;
-    - Numpy;
-    - Matplotlib;
-    - Seaborn;
-    - Scipy;
-    - Scikitlearn.
+### 🛠️ **Data Engineering Tools & Platforms:**
+- **Databricks**
+- **Azure Synapse Analytics**
+- **SSIS** (SQL Server Integration Services)
+- **SSAS** (SQL Server Analysis Services)
+- **Power BI**
 
+### 📊 **Data Analysis & Visualization:**
+- **Power BI**
+- **Excel**
 
+---
 
+## ➡️ Tools & Technologies I'm Currently Learning:
+- **Apache Spark** (for big data processing)
+- **Apache Kafka** (for real-time data streaming)
+- **Docker** (for containerization)
+- **Kubernetes** (for orchestration)
 
+---
 
-
-## ➡️ Languages and Tools that I'm Currently learning:
- <img src="https://vertigo.com.br/wp-content/uploads/2016/09/logo_lockup_analytics_icon_horizontal_black_2x.png" weight="70" height="70"/><img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo.png" weight="70" height="70"/>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/estevaoguerra/), send me an email at [estevaoguerra123@gmail.com](mailto:estevaoguerra123@gmail.com), or follow me on [Twitter](https://twitter.com/estevao_guerra)!
