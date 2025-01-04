@@ -3,7 +3,7 @@
 <img height="200em" src="https://c.tenor.com/3PztGziJog8AAAAC/baby-yoda-wave.gif">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevaoguerra/)
-[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevaoguerra123@gmail.com)
+[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevaoguerra.work@gmail.com)
 
 <div>
   <div>
