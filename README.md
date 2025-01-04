@@ -1,51 +1,90 @@
-## 👋 Hey there! I'm __Estêvão Guerra__
-### 👨‍💻 Data Engineer
-<img height="200em" src="https://c.tenor.com/3PztGziJog8AAAAC/baby-yoda-wave.gif">
+## 👋 Hello, I'm __Estêvão Guerra__
+### 💼 Data Engineer | Data Science Enthusiast | Technology Advocate
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevaoguerra/)
-[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevaoguerra.work@gmail.com)
+<img height="200em" src="https://c.tenor.com/3PztGziJog8AAAAC/baby-yoda-wave.gif" alt="Greeting Gif">
 
-<div>
-  <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estevaoguerra19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoguerra19&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-</div>
-
-### :vulcan_salute: About Me
-- I was born in Brazil 🌲 on **April 30, 2001**, which makes me **23 years old** as of today.
-- I chose IT for its vast opportunities and because I have a passion for technology.
-- I'm a pianist with a special love for Classical Music 🎵.
-- I love the color black and enjoy learning about new cultures 🌍.
-- A huge Marvel fan! 🦸‍♂️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevaoguerra/)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevaoguerra123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estevaogueerra/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/estevao_guerra)
 
 ---
 
-## ➡️ Tools & Technologies I Work With:
+### 📍 **About Me**
 
-### 💻 **Programming Languages & Frameworks:**
-- **Python** 
-- **SQL** (MySQL, PostgreSQL, SQL Server)
+I am a passionate **Data Engineer** with a strong foundation in data analytics, programming, and cloud-based data platforms. I have a keen interest in working with **big data**, **cloud computing**, and developing data pipelines that drive business intelligence. Currently, I specialize in transforming raw data into actionable insights using advanced tools and technologies.  
 
-### 🛠️ **Data Engineering Tools & Platforms:**
-- **Databricks**
-- **Azure Synapse Analytics**
+- **Birthplace**: Brazil 🌲 | **Age**: 23 (Born on April 30, 2001)
+- I chose **Information Technology** for its immense potential to drive innovation and because I’m deeply passionate about technology.
+- Outside of tech, I am an avid **pianist** with a love for **Classical Music** 🎵, a culture enthusiast 🌍, and a dedicated **Marvel fan** 🦸‍♂️.
+
+---
+
+### 🛠 **Core Competencies & Technologies**
+
+#### **Data Engineering:**
+- **SQL** (Advanced Queries, Database Design)
+- **ETL Development** (Extract, Transform, Load)
+- **Databricks** (Data Engineering and Machine Learning)
+- **Azure Synapse Analytics** (Cloud Data Warehousing)
 - **SSIS** (SQL Server Integration Services)
 - **SSAS** (SQL Server Analysis Services)
-- **Power BI**
+- **Power BI** (Data Visualization)
 
-### 📊 **Data Analysis & Visualization:**
-- **Power BI**
-- **Excel**
+#### **Programming & Data Science:**
+- **Python** 
+- **Data Modeling & Pipelines** (Building scalable data solutions)
+  
+#### **Cloud Platforms & Big Data:**
+- **Azure** (Data Storage, Synapse Analytics, Blob Storage)
+- **Apache Spark** (Big Data Processing)
+- **Apache Kafka** (Real-time Data Streaming)
+- **Docker** (Containerization)
+- **Kubernetes** (Orchestration)
 
 ---
 
-## ➡️ Tools & Technologies I'm Currently Learning:
-- **Apache Spark** (for big data processing)
-- **Apache Kafka** (for real-time data streaming)
-- **Docker** (for containerization)
-- **Kubernetes** (for orchestration)
+### 📊 **Data Analysis & Visualization Tools**
+
+- **Power BI** (Dashboarding, Data Reporting)
+- **Tableau** (Data Visualization)
+- **Excel** (Advanced Functions & Pivot Tables)
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/estevaoguerra/), send me an email at [estevaoguerra123@gmail.com](mailto:estevaoguerra123@gmail.com), or follow me on [Twitter](https://twitter.com/estevao_guerra)!
+### 📚 **Technologies I'm Currently Exploring**
+- **Apache Kafka** (Real-time Data Processing)
+- **Data Lakes** (Building scalable, high-performance data storage solutions)
+- **Apache Flink** (Stream Processing for real-time analytics)
+- **Airflow** (Workflow orchestration and scheduling)
+- **Machine Learning Engineering** (Integrating ML models into data pipelines)
+- **Terraform** (Infrastructure as Code for automating cloud resources)
+- **Google BigQuery** (Serverless data warehouse for scalable analytics)
+- **Snowflake** (Cloud-based data warehousing)
+- **Kubernetes** (Container orchestration for scalable, cloud-native applications)
+- **Graph Databases** (Neo4j for managing interconnected data)
+- **Serverless Architectures** (Building scalable solutions without managing servers)
+- **Apache Pulsar** (Distributed messaging and streaming platform)
+- **AWS Lambda** (Serverless computing service)
+
+
+---
+
+### 🌐 **Connect with Me:**
+- [LinkedIn Profile](https://www.linkedin.com/in/estevaoguerra/)
+- [Email](mailto:estevaoguerra.work@gmail.com)
+
+---
+
+#### **GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estevaoguerra19&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoguerra19&layout=compact&langs_count=7&theme=radical)
+
+---
+
+### 🌱 **Continuous Learning & Professional Growth**
+As **Thomas Aquinas** wisely stated, *“The more a man is perfect, the more he is capable of knowing.”* This principle guides my approach to professional growth. I am dedicated to deepening my expertise in **data engineering**, **cloud technologies**, and **data science** through hands-on experience, continuous self-learning, and collaboration with innovative teams. Every new challenge is an opportunity to enhance my skills and contribute to the advancement of cutting-edge solutions.
+
+
+---
+
